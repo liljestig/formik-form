@@ -1,4 +1,4 @@
-# Formik-Form
+# Formik Form
 Developed using Visual Studio Code for Windows, learning how to create a simple web application using React and Formik.
 ## How to install
 Clone the repository and change directory to the deployment root directory, then execute the "npm run" command to start the application.
